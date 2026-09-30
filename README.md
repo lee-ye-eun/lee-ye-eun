@@ -1,13 +1,12 @@
 # ☀️ NAGI
----
 ### Yeeun Lee (nagi) | Game Developer
 
 ---
-# PROJECTS
-## Team Projects
+# 👾 PROJECTS
+## 📢 Team Projects
 - **[Memory Collector](https://github.com/lodestar123/INXP_UNIJAM2026)**
 
-## Personal Projects
+## 😎 Personal Projects
 - **[Room Puzzle](https://github.com/lee-ye-eun/room-puzzle)**
 - **[Four Seasons - Babel](https://github.com/lee-ye-eun/Four-Seasons-Babel)**
   
