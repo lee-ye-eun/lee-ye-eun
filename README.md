@@ -10,7 +10,7 @@
 
 ## 😎 Personal Projects
 - **[🚪 Room Puzzle](https://github.com/lee-ye-eun/room-puzzle)**: 숫자가 적힌 룸 주위에 알맞은 방향의 문을 배치하는 **웹 논리 퍼즐** 게임 - **[▶️ Play](https://lee-ye-eun.github.io/room-puzzle/)**
-- **[🌸 Four Seasons - Babel](https://github.com/lee-ye-eun/Four-Seasons-Babel)**: 계절성이 있는 2D **탑뷰 타워 디펜스** 게임 - 2026 넥슨 대학생 게임잼 참여작(**합격🎉**)
+- **[🌸 Four Seasons Babel](https://github.com/lee-ye-eun/Four-Seasons-Babel)**: 계절성이 있는 2D **탑뷰 타워 디펜스** 게임 - 2026 넥슨 대학생 게임잼 참여작(**합격🎉**)
   
 
 
